@@ -39,3 +39,5 @@
 
 
 [![SujitKar1195's GitHub | Stats](https://stats.quine.sh/SujitKar1195/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujitKar1195)
+[![SujitKar1195's GitHub | Topics Over Time](https://stats.quine.sh/SujitKar1195/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujitKar1195)
+[![SujitKar1195's GitHub | Languages Over Time](https://stats.quine.sh/SujitKar1195/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujitKar1195)
