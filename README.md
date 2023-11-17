@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sujitkar1195@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link](https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link)
+- 📄 Resume [https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link](https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm very funny😊**
 
