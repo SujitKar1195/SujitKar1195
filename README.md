@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitkar1195&show_icons=true&locale=en" alt="sujitkar1195" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitkar1195&" alt="sujitkar1195" /></p>
+
+
+[![SujitKar1195's GitHub | Stats](https://stats.quine.sh/SujitKar1195/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujitKar1195)
