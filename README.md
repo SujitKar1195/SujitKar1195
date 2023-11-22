@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujit Kar</h1>
 <h3 align="center">A computer science enthusiastic student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkar1195&label=Profile%20views&color=0e75b6&style=flat" alt="sujitkar1195" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitkar1195" alt="sujitkar1195" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sujitka24450452" target="blank"><img src="https://img.shields.io/twitter/follow/sujitka24450452?logo=twitter&style=for-the-badge" alt="sujitka24450452" /></a> </p>
 
@@ -39,5 +37,3 @@
 
 
 [![SujitKar1195's GitHub | Stats](https://stats.quine.sh/SujitKar1195/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujitKar1195)
-[![SujitKar1195's GitHub | Topics Over Time](https://stats.quine.sh/SujitKar1195/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujitKar1195)
-[![SujitKar1195's GitHub | Languages Over Time](https://stats.quine.sh/SujitKar1195/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SujitKar1195)
