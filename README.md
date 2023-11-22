@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SujitKar1195](https://github.com/SujitKar1195)
 
-- 📫 How to reach me **sujitkar1195@gmail.com**
+- 📫 reach me **sujitkar1195@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link](https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link)
+- 📄 My Resume: [https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link](https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm very funny😊**
 
