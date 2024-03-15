@@ -9,7 +9,7 @@
 
 - 📫 reach me **sujitkar1195@gmail.com**
 
-- 📄 My Resume: [https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link](https://drive.google.com/file/d/1Ofrnn-gSa01iyr1vKEzA7fjB38KM6E6e/view?usp=drive_link)
+- 📄 My Resume: [https://drive.google.com/drive/u/0/folders/1TXR_DRWGg3VZ7sblSJ9B2mjRQgtK4EaO](https://drive.google.com/drive/u/0/folders/1TXR_DRWGg3VZ7sblSJ9B2mjRQgtK4EaO)
 
 - ⚡ Fun fact **I'm very funny😊**
 
