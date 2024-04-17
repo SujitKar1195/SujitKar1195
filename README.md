@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://twitter.com/sujitka24450452" target="blank"><img src="https://img.shields.io/twitter/follow/sujitka24450452?logo=twitter&style=for-the-badge" alt="sujitka24450452" /></a> </p>
 
 - 📫 reach me **sujitkar1195@gmail.com**
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/sujitkar1195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sujitkar1195" height="30" width="40" /></a>
