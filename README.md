@@ -15,7 +15,7 @@
 -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitkar1195&show_icons=true&locale=en&layout=compact" alt="sujitkar1195" /></p>
-<!--
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitkar1195&show_icons=true&locale=en" alt="sujitkar1195" /></p>
--->
+
 
