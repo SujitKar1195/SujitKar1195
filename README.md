@@ -30,7 +30,7 @@
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 
-- 🔭 I’m currently working on **Podstar, podcast streaming App** - 🌱 I’m
+- 🔭 I’m currently working on **LitWave, Book store** - 🌱 I’m
 currently learning **Python** - 💬 Ask me about **MERN** - 📫 How to reach me
 **skar54322@gmail.com** - ⚡ Fun fact **I am Funny**
 
