@@ -1,146 +1,125 @@
-<!--
-<h1 align="center">Hi 👋, I'm Sujit Kar</h1>
-<h3 align="center">A computer science enthusiastic student.</h3>
--->
+<!-- Header Section -->
+<table align="center" style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 20px; width: 60%;" valign="center">
+      <h1>Hi 👋, I'm Sujit Kar</h1>
+      <h3>🚀 Full Stack Developer & Software Engineer</h3>
+      <p>Passionate developer focused on building modern web applications, exploring system architecture, and solving algorithmic problems on LeetCode and GeeksforGeeks.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/sujitkar1195/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://leetcode.com/sujit_kar2003/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+        </a>
+        <a href="https://auth.geeksforgeeks.org/user/themastercoder39" target="_blank">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+        </a>
+      </p>
+    </td>
+    <td style="border: none; padding: 20px; width: 40%; text-align: center;" valign="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="380" style="border-radius: 10px; max-width: 100%;" />
+    </td>
+  </tr>
+</table>
 
+<hr/>
 
+<!-- About Me Section -->
+## 💫 About Me
 
-<!--
-<h3 align="left">Connect with me:</h3>
+- 🎓 **Education:** Pursuing Computer Science & Engineering
+- 💻 **Focus:** Full Stack Web Development & Problem Solving
+- 🛠️ **Current Goals:** Diving deeper into Microservices, Cloud Native development, and system performance optimizations
+- 💬 **Ask me about:** JavaScript/React, Node.js/Express, or DSA questions in C++ & Java
+
+<hr/>
+
+<!-- Tech Stack Section -->
+## 🛠️ Languages & Tools
+
+I work with a variety of languages, frameworks, and developer tools to build robust applications:
+
+### 🌐 Frontend & Mobile Development
 <p align="left">
-<a href="https://dev.to/https://dev.to/sujitkar1195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sujitkar1195" height="30" width="40" /></a>
-<a href="https://twitter.com/sujitka24450452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujitka24450452" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujitkar1195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujitkar1195/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sujit_kar2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sujit_kar2003/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/themastercoder39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/themastercoder39" height="30" width="40" /></a>
-</p>
--->
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitkar1195&show_icons=true&locale=en&layout=compact" alt="sujitkar1195" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitkar1195&show_icons=true&locale=en" alt="sujitkar1195" /></p>
--->
-
-<h1 align="center">Hi 👋, I'm Sujit Kar</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-/>
-
-- 🔭 I’m currently working on **LitWave, Book store** - 🌱 I’m
-currently learning **Python** - 💬 Ask me about **MERN** - 📫 How to reach me
-**skar54322@gmail.com** - ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a
-    href="https://dev.to/https://dev.to/sujitkar1195"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="https://dev.to/sujitkar1195"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://twitter.com/sujitka24450452"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="sujitka24450452"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/sujitkar1195/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/sujitkar1195/"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.leetcode.com/https://leetcode.com/sujit_kar2003/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="https://leetcode.com/sujit_kar2003/"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/themastercoder39"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-      alt="https://auth.geeksforgeeks.org/user/themastercoder39"
-      height="30"
-      width="40"
-  /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-					alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/"
-				target="_blank" rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-					width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-				rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-					alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/"
-				target="_blank" rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-					alt="css3" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-					alt="docker" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
-				rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-					alt="express" width="40" height="40" /> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-					src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-			</a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img
-					src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40"
-					height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-					alt="html5" width="40" height="40" /> </a>  <a href="https://www.java.com" target="_blank"
-				rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-					alt="java" width="40" height="40" /> </a> <a
-				href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-					alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-				rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-					alt="linux" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-				rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-					alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-				rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-					alt="mysql" width="40" height="40" /> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-					alt="nodejs" width="40" height="40" /> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-					src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-					height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-					alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"
-				rel="noreferrer"> <img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-					alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank"
-				rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
-					height="40" /> </a>  <a href="https://tailwindcss.com/" target="_blank"
-				rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-					alt="tailwind" width="40" height="40" /> </a> </p>
+### ⚙️ Backend, Databases & Languages
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  <br/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitkar1195&show_icons=true&locale=en&layout=compact" alt="sujitkar1195" /></p>
+### 🛠️ Developer Tools & DevOps
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitkar1195&show_icons=true&locale=en" alt="sujitkar1195" /></p>
+<hr/>
+
+<!-- Stats Section -->
+## 📊 GitHub Analytics
+
+Here is a quick snapshot of my GitHub activity and stats:
+
+
+<p align="center">
+  <a href="https://github.com/SujitKar1195">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujitKar1195&theme=tokyonight" alt="Sujit's Streak Stats" />
+  </a>
+</p>
