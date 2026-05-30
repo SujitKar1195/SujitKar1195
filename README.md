@@ -28,10 +28,7 @@
 <!-- About Me Section -->
 ## 💫 About Me
 
-- 🎓 **Education:** Pursuing Computer Science & Engineering
-- 💻 **Focus:** Full Stack Web Development & Problem Solving
-- 🛠️ **Current Goals:** Diving deeper into Microservices, Cloud Native development, and system performance optimizations
-- 💬 **Ask me about:** JavaScript/React, Node.js/Express, or DSA questions in C++ & Java
+- 🎓 **Education:** Bachelor in Computer Science & Engineering
 
 <hr/>
 
@@ -40,7 +37,7 @@
 
 I work with a variety of languages, frameworks, and developer tools to build robust applications:
 
-### 🌐 Frontend & Mobile Development
+### 🌐 Frontend Development
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -86,9 +83,7 @@ I work with a variety of languages, frameworks, and developer tools to build rob
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-  </a>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   </a>
